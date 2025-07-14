@@ -1,4 +1,4 @@
-name: Release
+name: ReleaseA12
 on:
   push:
     tags:
